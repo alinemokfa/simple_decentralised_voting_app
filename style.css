@@ -1,0 +1,21 @@
+body, html {
+  font-family: sans-serif;
+  background-image: url("./img/background_img.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  color: white;
+  background-image: url("./images/background.jpg");
+  background-size: cover;
+  justify-content: center;
+}
+
+table, th, td {
+  border: 1px solid grey;
+  padding: 5px;
+}
